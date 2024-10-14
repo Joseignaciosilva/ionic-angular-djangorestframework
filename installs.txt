@@ -1,0 +1,4 @@
+// lo hago solo por buena practica
+
+npm install -g @ionic/cli
+pip install django djangorestframework mysqlclient
